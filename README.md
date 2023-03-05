@@ -1,2 +1,1 @@
-# colize
-asd
+#veri kúl
